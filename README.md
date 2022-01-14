@@ -2,6 +2,9 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 ## Currently Building stuff with
 
 <p align="left"> 
@@ -33,6 +36,20 @@
   <a>
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
   </a>
+</p>
+
+
+## Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
 </p>
 
 -----
